@@ -1,4 +1,5 @@
 # webscraping-amazon
 
-Esse programa executa webscraping de 15 em 15 minutos para buscar informações de preços de determinado produto na Amazon. 
-Ou seja, em um site dinâmico, o que exige um caminho diferente.
+Esse programa executa webscraping na página de um produto da Amazon buscando o preço vendido. 
+<br>O próximo projeto usará esse código para automatizar a tarefa de busca de preço periodicamente e enviar um e-mail quando houver promoção.
+<br>Vale destacar que o código é feito pensando em sites dinâmicos, mas que pode necessitar de ajustes periódicos já que sempre há mudança nos nomes das tags, por exemplo.
